@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="btn_add_list">Додати список</string>
+    <string name="btn_add_product">Додати покупку</string>
+    <string name="btn_save">Зберегти</string>
+    <string name="btn_delete">Видалити</string>
+    <string name="btn_cancel">Скасувати</string>
+    <string name="btn_back">Назад</string>
+    <string name="hint_list_name">Назва списку</string>
+    <string name="hint_list_desc">Опис (необов\'язково)</string>
+    <string name="hint_product_name">Назва покупки</string>
+    <string name="hint_product_count">Кількість</string>
+</resources>
